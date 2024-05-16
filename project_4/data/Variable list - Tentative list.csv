@@ -1,0 +1,34 @@
+This list consist of columns in our final EDA dataset. It will document down what the values of each column represent and the processing done to the columns,,
+,,
+Feature,Description,To include
+_RFCHOL,"Adults who have had their cholesterol checked and have been told by a doctor, nurse, or other health professional that it was high",Y
+WTKG3,Reported weight in kilograms,Y
+HTM4,Reported height in meters,Y
+DIFFWALK,Do you have serious difficulty walking or climbing stairs?,Y
+BLIND,"Are you blind or do you have serious difficulty seeing, even when wearing glasses?",Y
+_MICHD,Respondents that have ever reported having coronary heart disease (CHD) or myocardial infarction (MI),Y
+_DRDXAR1,Respondents who have had a doctor diagnose them as having some form of arthritis,Y
+DIABETE3,"(Ever told) you have diabetes (If ""Yes"" and respondent is female, ask ""Was this only when you were pregnant?"". If",Y
+CHCSCNCR,(Ever told) you had skin cancer?,Y
+_DRNKWEK,Calculated total number of alcoholic beverages consumed per week,Y
+SEX,Indicate sex of respondent.,Y
+MARITAL,Are you: (marital status),Y
+EMPLOY1,Employment status,Y
+_AGEG5YR,Fourteen-level age category,Y
+_EDUCAG,Level of education completed,Y
+_PA150R2,Adults that participated in 150 minutes (or vigorous equivalent minutes) of physical activity per week.,Y
+_FRTLT1,Consume Fruit 1 or more times per day,Y
+_VEGLT1,Consume Vegetables 1 or more times per day,Y
+CVDINFR4,"(Ever told) you had a heart attack, also called a myocardial infarction?",Y
+CVDSTRK3,(Ever told) you had a stroke.,Y
+ASTHMA3,(Ever told) you had asthma?,Y
+CHCOCNCR,(Ever told) you had any other types of cancer?,Y
+CHCCOPD1,"(Ever told) you have Chronic Obstructive Pulmonary Disease or COPD, emphysema or chronic bronchitis?",Y
+ADDEPEV2,"(Ever told) you that you have a depressive disorder, including depression, major depression, dysthymia, or minor",Y
+CHCKIDNY,"(Ever told) you have kidney disease? Do NOT include kidney stones, bladder infection or incontinence.(Incontinence",Y
+_RFHYPE5,"Adults who have been told they have high blood pressure by a doctor, nurse, or other health professional",Y
+_SMOKER3,"Four-level smoker status: Everyday smoker, Someday smoker, Former smoker, Non-smoker",Y
+DRNKANY5,Adults who reported having had at least one drink of alcohol in the past 30 days.,Y
+_RFBING5,"Binge drinkers (males having five or more drinks on one occasion, females having four or more drinks on one occasion)",Y
+_RACE,Race/ethnicity categories,Y
+ALCDAY5,"During the past 30 days, how many days per week or per month did you have at least one drink of any alcoholic beverage such as beer, wine, a malt beverage or liquor?",Y

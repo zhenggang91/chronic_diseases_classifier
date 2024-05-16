@@ -1,0 +1,5 @@
+Candidate Columns in 2015,CVDINFR4,CVDSTRK3,ASTHMA3,CHCSCNCR,CHCOCNCR,CHCCOPD1,ADDEPEV2,CHCKIDNY,DIABETE3,SEX,MARITAL,EMPLOY1,BLIND,DIFFWALK,ALCDAY5,_RFHYPE5,_MICHD,_DRDXAR1,_AGEG5YR,HTM4,_EDUCAG,_SMOKER3,DRNKANY5,_RFBING5,_DRNKWEK,_FRTLT1,_VEGLT1,_PA150R2,_RFCHOL,WTKG3
+Columns not available in 2011,,,,,,X,,,,,,X,X,X,,,X,,,,,,,,X,X,X,X,,
+Columns not available in 2012,,,,,,,,,,,,X,X,X,,X,X,,,,,,,,X,X,X,X,X,
+Columns not available in 2013,,,,,,,,,,,,,,,,,X,,,,,,,,X,,,,,
+Columns not available in 2014,,,,,,,,,,,,,,,,X,X,,,,,,,,X,X,X,X,X,
